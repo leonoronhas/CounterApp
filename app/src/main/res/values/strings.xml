@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="odd_number">Odd Counter</string>
+    <string name="even_number">Even Counter</string>
+</resources>
